@@ -1,0 +1,12 @@
+{
+    "dueDates": [
+        {
+            "item": "Sprint 1 plan",
+            "date": "XX/XX/XXXX"
+        },
+        {
+            "item": "Sprint 2 plan",
+            "date": "XX/XX/XXXX"
+        }
+    ]
+}

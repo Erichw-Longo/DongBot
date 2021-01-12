@@ -1,0 +1,20 @@
+{
+    "commands":[
+        "help",
+        "ping",
+        "hello",
+        "what day is it?",
+        "garth",
+        "+1 coke",
+        "+1 capp",
+        "!dongbot",
+        "backlog",
+        "backlog add",
+        "peer mentor",
+        "-1 coke",
+        "-1 capp",
+        ".die()",
+        "heh",
+        "heh +"
+    ]
+}

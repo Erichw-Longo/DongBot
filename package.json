@@ -1,0 +1,17 @@
+{
+    "name": "greeter-bot",
+    "version": "1.0.0",
+    "description": "My own Discord bot",
+    "main": "bot.js",
+    "author": "Erich Longo",
+    "scripts": {
+        "start": "node bot.js",
+        "dev": "nodemon bot.js"
+      },
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "discord.js": "^11.4.2",
+        "moment": "^2.22.2",
+        "winston": "^2.4.3"
+    }
+}
